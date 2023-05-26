@@ -1,4 +1,5 @@
 {
+    "name": "laravel-livewire",
     "private": true,
     "scripts": {
         "dev": "npm run development",
