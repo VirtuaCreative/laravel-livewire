@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://laravel-livewire-wtt5j.kinsta.app/'),
+    'url' => env('APP_URL', ''),
 
     'asset_url' => env('ASSET_URL', null),
 
