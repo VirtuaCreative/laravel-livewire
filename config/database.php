@@ -47,7 +47,7 @@ return [
             'driver' => 'mysql',
             'url' => env('DB_CONNECTION_URL'),
             'host' => env('DB_HOST', 'localhost'),
-            'port' => env('DB_PORT', '30811'),
+            'port' => env('DB_PORT', '30331'),
             'database' => env('DB_DATABASE', 'forge'),
             'username' => env('DB_USERNAME', 'forge'),
             'password' => env('DB_PASSWORD', ''),
